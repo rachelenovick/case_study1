@@ -1,0 +1,14 @@
+---
+title: "case_study1"
+output: html_document
+date: "2025-10-07"
+---
+
+Loading libraries and reading in the dataset:
+
+```{r}
+library(p8105.datasets)
+
+data(nyc_airbnb)
+```
+
